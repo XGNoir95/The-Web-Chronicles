@@ -1,4 +1,4 @@
-            "With Great Power, Comes Great Responsibility"
+                               "With Great Power, Comes Great Responsibility"
 The Web Chronicles is a 2D game developed using the iGraphics library. This game takes players on an exciting journey through various web-inspired levels, each filled with unique challenges and adventures.
 
 Features
