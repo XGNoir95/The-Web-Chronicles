@@ -1,6 +1,10 @@
                                     "With Great Power, Comes Great Responsibility"
 The Web Chronicles is a 2D game developed using the iGraphics library. This game takes players on an exciting journey through various web-inspired levels, each filled with unique challenges and adventures.
 
+## 🎬 Demo Video
+
+▶️ [Watch the Gameplay Demo](https://drive.google.com/file/d/1ejSwHsgYRFUjzSDvxeY05oJSMSG1NY-i/view?usp=sharing)
+
 Features:
 Engaging Gameplay: Traverse through 6 different levels with increasing difficulty.
 
